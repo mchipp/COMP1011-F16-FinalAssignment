@@ -7,5 +7,8 @@ package finalgroupassignment;
 
 public class FinalGroupAssignment 
 {
-    
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World!");
+    }
 }
